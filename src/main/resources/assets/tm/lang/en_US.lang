@@ -1,0 +1,5 @@
+tile.cheeseblock.name=Cheese Block
+
+item.cheese.name=Cheese
+
+itemGroup.tabTutorial=Tutorial Tab
